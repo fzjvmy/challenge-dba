@@ -1,7 +1,7 @@
 
 -- ---------------------------------------------------------------------------
 -- Challenge DBA — Script SQL Completo (PostgreSQL)
--- Autor: Michel Inocêncio de Sá (adaptado pelo M365 Copilot)
+-- Autor: Michel Inocêncio de Sá 
 -- Data: 2025-12-23
 -- ---------------------------------------------------------------------------
 -- Este script implementa:
